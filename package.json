@@ -1,0 +1,17 @@
+{
+  "name": "api_app",
+  "version": "1.2.0",
+  "description": "e-commerce application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Loyiso Khumalo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
